@@ -2,7 +2,7 @@ import java.io.*;
 
 import java.util.*;
 
-class experiment2
+class secondquestion
 
 {
 
