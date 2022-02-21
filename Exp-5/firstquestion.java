@@ -2,7 +2,7 @@ import java.io.*;
 
 import java.util.*;
 
-class readexample
+class firstquestion
 
 {
 
