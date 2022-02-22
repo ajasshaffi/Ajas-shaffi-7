@@ -2,7 +2,7 @@ import java.util.*;
 
 import java.io.*;
 
-class question3
+class thirdquestion
 
 {
 
