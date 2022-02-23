@@ -10,7 +10,7 @@ class secondquestion
 
     {
 
-    FileInputStream obj = new FileInputStream("read2.txt");
+    FileInputStream obj = new FileInputStream("read1.txt");
 
     int c=-1, i=0, w=0;
 
