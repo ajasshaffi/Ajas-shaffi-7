@@ -1,6 +1,6 @@
 import java.util.*;
 
-class shapearea
+class Area
 
 {
 
