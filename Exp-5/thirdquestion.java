@@ -26,7 +26,8 @@ public static void main(String[] args) throws Exception
 
     fw.write(address);
 
-	fw.close();	FileReader fr = new FileReader("e2.txt");
+	fw.close();	
+	FileReader fr = new FileReader("e2.txt");
 
     int ch;
 
