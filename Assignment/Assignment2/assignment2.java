@@ -139,7 +139,7 @@ class gui implements ActionListener{
 
 }
 
-class assignment_2 {
+class assignment2 {
 
     public static void main(String[] args) { 
 
