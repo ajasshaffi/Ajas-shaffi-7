@@ -1,6 +1,6 @@
 import java.util.*; 
 
-public class Assignment1
+public class student
 
  { 
 
